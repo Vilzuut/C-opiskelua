@@ -1,0 +1,5 @@
+C:\Users\ville.utriainen\Documents\repositiot\C-opiskelua\Gitterhubber\Gitterhubber\obj\Debug\Gitterhubber.csprojAssemblyReference.cache
+C:\Users\ville.utriainen\Documents\repositiot\C-opiskelua\Gitterhubber\Gitterhubber\obj\Debug\Gitterhubber.Form1.resources
+C:\Users\ville.utriainen\Documents\repositiot\C-opiskelua\Gitterhubber\Gitterhubber\obj\Debug\Gitterhubber.Properties.Resources.resources
+C:\Users\ville.utriainen\Documents\repositiot\C-opiskelua\Gitterhubber\Gitterhubber\obj\Debug\Gitterhubber.csproj.GenerateResource.cache
+C:\Users\ville.utriainen\Documents\repositiot\C-opiskelua\Gitterhubber\Gitterhubber\obj\Debug\Gitterhubber.csproj.CoreCompileInputs.cache
