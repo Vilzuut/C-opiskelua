@@ -1,0 +1,10 @@
+D:\Koodauksia\Tietokilpailupeli\Tietokilpailupeli\bin\Debug\Tietokilpailupeli.exe.config
+D:\Koodauksia\Tietokilpailupeli\Tietokilpailupeli\bin\Debug\Tietokilpailupeli.exe
+D:\Koodauksia\Tietokilpailupeli\Tietokilpailupeli\bin\Debug\Tietokilpailupeli.pdb
+D:\Koodauksia\Tietokilpailupeli\Tietokilpailupeli\obj\Debug\Tietokilpailupeli.csprojAssemblyReference.cache
+D:\Koodauksia\Tietokilpailupeli\Tietokilpailupeli\obj\Debug\Tietokilpailupeli.Form1.resources
+D:\Koodauksia\Tietokilpailupeli\Tietokilpailupeli\obj\Debug\Tietokilpailupeli.Properties.Resources.resources
+D:\Koodauksia\Tietokilpailupeli\Tietokilpailupeli\obj\Debug\Tietokilpailupeli.csproj.GenerateResource.cache
+D:\Koodauksia\Tietokilpailupeli\Tietokilpailupeli\obj\Debug\Tietokilpailupeli.csproj.CoreCompileInputs.cache
+D:\Koodauksia\Tietokilpailupeli\Tietokilpailupeli\obj\Debug\Tietokilpailupeli.exe
+D:\Koodauksia\Tietokilpailupeli\Tietokilpailupeli\obj\Debug\Tietokilpailupeli.pdb
